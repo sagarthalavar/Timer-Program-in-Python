@@ -1,0 +1,4 @@
+hey buddy 
+how are oou
+hey=open('bro.txt')
+hey.readlines()
